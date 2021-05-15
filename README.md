@@ -1,4 +1,4 @@
-#Kanband Board
+##Kanban Board
 
 Kanban Borad is used to manage users daily task.User can perform following operations:
 1. User can move any cards from one bucket to another.
@@ -8,7 +8,7 @@ you must be able to distinguish each task from other.
 4. As a user, you can also sort the task in the Bucket.
 
 ## Installation / pre-requisites
-1. Unzip the folder.
+1. To clone the repo run https://github.com/Shivangi-sri/kanban-board.git.
 2. Run "npm install" to install the dependencies.
 3. Run "npm start" to start the server.
 
